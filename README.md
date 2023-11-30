@@ -9,11 +9,13 @@ After training, the models' performance can be evaluated in terms of accuracy an
 
 ### Augmented Model
 
-Accuracy: 95%
+Accuracy: 95% 
+
 Loss: Well-fitted and trained on the dataset
 
 
 ### Non-Augmented Model
 
 Accuracy: 94%
+
 Loss: Overfitting observed
